@@ -1,0 +1,28 @@
+.team-details-container {
+  background-image: linear-gradient(#d91c1f, #a4261d, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.team-page-container {
+  width: 90%;
+}
+.team_banner {
+  width: 100%;
+}
+.latest-matches {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
+.match-card-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
